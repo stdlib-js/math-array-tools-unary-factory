@@ -44,7 +44,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-factory = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-tools-unary-factory@umd/browser.js' )
+factory = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-tools-unary-factory@v0.1.0-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -56,7 +56,7 @@ var factory = require( 'path/to/vendor/umd/math-array-tools-unary-factory/index.
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-array-tools-unary-factory@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-array-tools-unary-factory@v0.1.0-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -187,7 +187,7 @@ The method has the following parameters:
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-dtypes@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-dtype@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-array-tools-unary-factory@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-array-tools-unary-factory@v0.1.0-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
