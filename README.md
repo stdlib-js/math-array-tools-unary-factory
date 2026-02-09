@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import factory from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-tools-unary-factory@esm/index.mjs';
+import factory from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-tools-unary-factory@v0.1.1-esm/index.mjs';
 ```
 
 #### factory( fcn, idtypes, odtypes, policy )
@@ -165,7 +165,7 @@ import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-dtypes@esm/index.mjs';
 import dtype from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-dtype@esm/index.mjs';
 import logEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each@esm/index.mjs';
-import factory from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-tools-unary-factory@esm/index.mjs';
+import factory from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-tools-unary-factory@v0.1.1-esm/index.mjs';
 
 // Define the supported input and output data types:
 var idt = dtypes( 'real_and_generic' );
