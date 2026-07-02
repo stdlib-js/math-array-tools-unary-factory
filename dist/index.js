@@ -1,5 +1,5 @@
-"use strict";var p=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var u=p(function(q,s){
-var g=require('@stdlib/utils-define-nonenumerable-read-only-property/dist'),y=require('@stdlib/math-array-tools-unary/dist');function l(e,r,c,f){var t=new y(e,r,c,f);return g(i,"assign",o),i;function i(n,a){return arguments.length<2?t.apply(n):t.apply(n,a)}function o(n,a){return t.assign(n,a)}}s.exports=l
-});var v=u();module.exports=v;
+"use strict";var p=function(e,r){return function(){try{return r||e((r={exports:{}}).exports,r),r.exports}catch(t){throw (r=0, t)}};};var c=p(function(q,u){
+var g=require('@stdlib/utils-define-nonenumerable-read-only-property/dist'),y=require('@stdlib/math-array-tools-unary/dist');function l(e,r,t,f){var a=new y(e,r,t,f);return g(s,"assign",o),s;function s(n,i){return arguments.length<2?a.apply(n):a.apply(n,i)}function o(n,i){return a.assign(n,i)}}u.exports=l
+});var v=c();module.exports=v;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
